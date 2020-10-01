@@ -12,3 +12,9 @@ Quality of Service &amp; Quality of Experience
 * 客觀評價
 
   透過協力廠商測試儀表或軟體進行測量，得出的數據。
+  
+# MLR, Media Loss Rate
+
+  媒體封包遺失速率， 1s 單位時間內遺失的視訊串流位元祖數
+  
+    應收位元組數 - 實收位元組數 / 時間
