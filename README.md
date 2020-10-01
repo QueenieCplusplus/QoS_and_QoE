@@ -48,5 +48,9 @@ Quality of Service &amp; Quality of Experience
 
 * 存儲力: 影響點播與直播的串流服務，對存儲和網路介面等 I/O 很要求。
 
+# Throuput
 
+ 傳輸量表示單台設備單位時間 s 內能夠傳輸的資料大小，目前最高效能可以達到 1GB ~ 10 GB。
+ 
+ 
 
