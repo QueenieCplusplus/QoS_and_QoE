@@ -35,7 +35,7 @@ Quality of Service &amp; Quality of Experience
 
   點對點回應時間：
   
-     DNS 解析 (CDN )IP 位址回傳 -> 目標被指向到 CDN 的 LB -> CDN URL Redirect -> 使用者收到第一個封包。
+     DNS 解析 (CDN )IP 位址回傳 -> 目標被指向到 CDN 的 LB -> CDN URL Redirect （至邊緣節點） -> 使用者收到第一個封包。
 
 請求回應之往返時間（使用者利用瀏覽器或用戶端軟體發出內容存取請求，直到收到第一個資料封包的時間）
 倘若目標主機回應使用者的時間過長，會讓使用者心理煩躁和不安，並失去興趣。
